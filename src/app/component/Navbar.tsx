@@ -84,7 +84,7 @@ const Navbar = () => {
 
           <div className="mr-4 hover:underline hidden sm:block">
             <Link href="/Contact">
-              <p>ContactUs:035162895</p>
+              <p>ContactUs:0395220198</p>
             </Link>
           </div>
         </div>
